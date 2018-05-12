@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6812
     wikipedia: http://en.wikipedia.org/wiki/Charles_Alden_Seltzer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31512#The-Coming-of-the-Law
 gutenberg_issued: '2010-03-05'
 gutenberg_type: Text
 identifiers:
